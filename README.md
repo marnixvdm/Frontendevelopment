@@ -149,24 +149,20 @@ Alles gaat nogsteeds volgens planning. Ik ben al aardig een stuk opgeschoten ik 
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-Alles is erg goed gegaan vooralsnog! Ik ben gaan werken aan de responsiveness en het ging best lekker. Ik ben best lang zitten klooien met het hamburger menu want hij klapte niet goed uit. dat lag allemaal aan de translate. Ik wist niet dat je via translate dat kan aanpassen. Ik dacht dat het automatisch ging. Dat vervolgens aangepast en alle kleuren naar de huisstijl gemaakt. <a href="readme-images/fixvoormenu.png"> Zoals je ziet is alles goedgekomen. <a href="readme-images/bijnaklaar">
+Alles is erg goed gegaan vooralsnog! Ik ben gaan werken aan de responsiveness en het ging best lekker. Ik ben best lang zitten klooien met het hamburger menu want hij klapte niet goed uit. dat lag allemaal aan de translate. Ik wist niet dat je via translate dat kan aanpassen. Ik dacht dat het automatisch ging. Dat vervolgens aangepast en alle kleuren naar de huisstijl gemaakt. <a href="readme-images/fixvoormenu.png"> Zoals je ziet is alles goedgekomen. <a href="readme-images/bijnaklaar"> Na dit helemaal gefixt te hebben ben ik begonnen aan mijn 2e pagina. Was het eigenlijk niet van plan maar had er nog wel zin in. <a href=
+"readme-images/booknowrotate"> <a href="readme-images/booknowstanding">
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | student 1 
+  | Hoe maak ik een sticky booknow??           | ---                | ---          | ---              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Met een position: fixed en een rotate
+  - let op alles ik mis nog een goeie title. Sommige alts etc
 
 </details>
 
