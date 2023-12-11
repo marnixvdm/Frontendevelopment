@@ -88,7 +88,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-Nav maken ging goed. Ik ga later beginnen aan de hamburger menu als ik hem responsive maak. Ik liep tegen een klein dingetje aan. <image src="images/inhetmiddenbuttons">
+Nav maken ging goed. Ik ga later beginnen aan de hamburger menu als ik hem responsive maak. Ik liep tegen een klein dingetje aan. <image src="readme-images/inhetmiddenbuttons">
 
   ### Agenda voor meeting
   samen met je groepje opstellen
