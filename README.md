@@ -52,7 +52,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-<a href="readme-images/testone.pdf">
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
  - Geen title in de paginas. 
