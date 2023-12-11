@@ -87,7 +87,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-Nav maken ging goed. Ik ga later beginnen aan de hamburger menu als ik hem responsive maak. Ik liep tegen een klein dingetje aan. <image src="readme-images/inhetmiddenbuttons.png"> Ik kreeg de buttons niet in het midden. Eerst dacht ik dat de fout in me css zat maar dat was niet zo. Ik had mijn ul li a niet goed genest. <img src="readme-images/inhetmiddenbuttonsfixcode.png"> Nu is het hierna de news artikelen maken en de footer. Daarna eens kijken hoe ik alles responsive ga maken
+Nav maken ging goed. Ik ga later beginnen aan de hamburger menu als ik hem responsive maak. Ik liep tegen een klein dingetje aan. <image src="readme-images/Inhetmiddenbuttons.png"> Ik kreeg de buttons niet in het midden. Eerst dacht ik dat de fout in me css zat maar dat was niet zo. Ik had mijn ul li a niet goed genest. <img src="readme-images/Inhetmiddenbuttonsfixcode.png"> Nu is het hierna de news artikelen maken en de footer. Daarna eens kijken hoe ik alles responsive ga maken
 
   ### Agenda voor meeting
   samen met je groepje opstellen
