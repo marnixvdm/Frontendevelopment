@@ -149,7 +149,7 @@ Alles gaat nogsteeds volgens planning. Ik ben al aardig een stuk opgeschoten ik 
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-Alles is erg goed gegaan vooralsnog! Ik ben gaan werken aan de responsiveness en het ging best lekker. Ik ben best lang zitten klooien met het hamburger menu want hij klapte niet goed uit. dat lag allemaal aan de translate. Ik wist niet dat je via translate dat kan aanpassen. Ik dacht dat het automatisch ging. Dat vervolgens aangepast en alle kleuren naar de huisstijl gemaakt. <a href="readme-images/fixvoormenu.png">
+Alles is erg goed gegaan vooralsnog! Ik ben gaan werken aan de responsiveness en het ging best lekker. Ik ben best lang zitten klooien met het hamburger menu want hij klapte niet goed uit. dat lag allemaal aan de translate. Ik wist niet dat je via translate dat kan aanpassen. Ik dacht dat het automatisch ging. Dat vervolgens aangepast en alle kleuren naar de huisstijl gemaakt. <a href="readme-images/fixvoormenu.png"> Zoals je ziet is alles goedgekomen. <a href="readme-images/bijnaklaar">
   ### Agenda voor meeting
   samen met je groepje opstellen
 
