@@ -58,7 +58,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  - Geen title in de paginas. 
  - De screenreader loopt vast op bepaalde delen. 
  - Ontzettend veel divs en een paar warnings in de html.
- - vervelende booknow overlay die contstant in beeld is. 
+ - vervelende booknow overlay die contstant in beeld is.
+ - Nieuws artikelen moeilijk klikbaar
 </details>
 
 
@@ -74,9 +75,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
 </details>
 
 
@@ -90,7 +88,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Nav maken ging goed. Ik ga later beginnen aan de hamburger menu als ik hem responsive maak. Ik liep tegen een klein dingetje aan. <image src="images/inhetmiddenbuttons"
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -132,7 +130,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | ...        d    | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
