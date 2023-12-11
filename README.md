@@ -203,9 +203,42 @@ Alles is erg goed gegaan vooralsnog! Ik ben gaan werken aan de responsiveness en
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
+centeren met grid:
+https://coryrylan.com/blog/how-to-center-in-css-with-css-grid#:~:text=First%2C%20we%20set%20the%20section%20to%20have%20configured,the%20justify-content%20property%20and%20set%20it%20to%20center.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+Grid:
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
 
+Hamburger menu:
+https://codepen.io/shooft/pen/MWZYoqa
+
+Br:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br
+
+Centeren text, divs etc:
+https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/
+
+input:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+
+Select:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
+
+Form:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
+
+Position fixed voor button:
+https://developer.mozilla.org/en-US/docs/Web/CSS/position
+
+Call to action fixed button:
+https://www.codewithfaraz.com/content/209/how-to-create-a-sticky-call-button-using-html-and-css
+
+Cards voor news:
+https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card
+
+pdf in html:
+https://www.w3docs.com/snippets/html/how-to-embed-pdf-in-html.html
+
+flexbox:
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex
 </details>
