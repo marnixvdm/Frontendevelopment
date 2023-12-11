@@ -38,11 +38,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Maesons.nl
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepagina
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Breakdownmaesons.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Barbershop + extra eigen toevoegingen
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/maesonsstickybooknowbreakdown.png"  alt="omschrijving van de pagina">
  
 </details>
 
@@ -52,7 +52,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-
+<a href="readme-images/testone.pdf">
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
  - Geen title in de paginas. 
@@ -88,16 +88,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-Nav maken ging goed. Ik ga later beginnen aan de hamburger menu als ik hem responsive maak. Ik liep tegen een klein dingetje aan. <image src="readme-images/inhetmiddenbuttons">
+Nav maken ging goed. Ik ga later beginnen aan de hamburger menu als ik hem responsive maak. Ik liep tegen een klein dingetje aan. <image src="readme-images/inhetmiddenbuttons.png"> Ik kreeg de buttons niet in het midden. Eerst dacht ik dat de fout in me css zat maar dat was niet zo. Ik had mijn ul li a niet goed genest. <img src="readme-images/inhetmiddenbuttonsfixcode.png"> Nu is het hierna de news artikelen maken en de footer. Daarna eens kijken hoe ik alles responsive ga maken
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Mijn eigen vragen   | student 2          | student 3    | student 4        |
+  | hoe hamburger menu  | ---                | ---          | ---              |
+  | Grid toepassen?     | en dit             | en ik dit    | en dan ik dat    |
+  | main volledig centreren?  | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...                 | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
@@ -120,26 +120,8 @@ Nav maken ging goed. Ik ga later beginnen aan de hamburger menu als ik hem respo
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Alles gaat nogsteeds volgens planning. Ik ben al aardig een stuk opgeschoten ik heb nu de volledige web versie maken en ik moet nog de book a appointment toevoegen. Deze ga ik toevoegen zonder het bellen en whatsapp button omdat uit de test kwam dat die te klein zijn om te bereiken dus bellen kan via de footer. <image src="readme-images/tussenstand.png"> Ik ben begonnen met het responsive maken en bij dezelfde buttons als vorige week ging het mis ik kreeg ze niet in het midden. Wat bleek? De width stond niet op 100% dus dan gaat het ook niet met justify-content align-content. Klein foutje maar zeker een half uur mee bezig geweest. 
 
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...        d    | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
 
 </details>
 
@@ -206,13 +188,13 @@ Nav maken ging goed. Ik ga later beginnen aan de hamburger menu als ik hem respo
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/dummy-plaatje.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/dummy-plaatje." width="375px" alt="bummer">
 </details>
 
 
