@@ -60,6 +60,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  - Ontzettend veel divs en een paar warnings in de html.
  - vervelende booknow overlay die contstant in beeld is.
  - Nieuws artikelen moeilijk klikbaar
+  <a href="readme-images/testone.pdf"> Hier is de pdf </a>
 </details>
 
 
@@ -70,10 +71,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
+  <img src="readme-images/Breakdownmaesons.png" alt="omschrijving van de pagina">
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/maesonsstickybooknowbreakdown.png"  alt="omschrijving van de pagina">
 
 </details>
 
