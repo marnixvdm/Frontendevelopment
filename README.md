@@ -135,7 +135,13 @@ Alles gaat nogsteeds volgens planning. Ik ben al aardig een stuk opgeschoten ik 
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
+   - makkelijk klikbare nieuws artikelen en book now button is makkelijker bereikbaar
+   - video is nu niet meer autoplay en kan met reduce motion naar een foto veranderen.
+   - nieuws artikelen blijven het juiste formaat als je het scherm kleiner maakt
+   - veeeeeeel minder divs en errors vermindert in de code
+   - alle img hebben een alt
+   - alle paginas hebben een unieke titel
+<a href="readme-images/testtwo.pdf"> Pdf met uitslagen test </a> 
 </details>
 
 
@@ -159,7 +165,6 @@ Alles is erg goed gegaan vooralsnog! Ik ben gaan werken aan de responsiveness en
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
   - Met een position: fixed en een rotate
   - let op alles ik mis nog een goeie title. Sommige alts etc
 
