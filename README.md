@@ -184,18 +184,19 @@ Alles is erg goed gegaan vooralsnog! Ik ben gaan werken aan de responsiveness en
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
+  - oppakken van code schrijven en nieuwe functies leren van de docent als door onderzoek
   - position fixed en sticky onder de knie krijgen
     <img src="readme-images/posticky.png">
   - volledig responsive website maken met o.a. grid
   <img src="readme-images/grid.png">
-
+  - veel tools geleerd die het code schrijven makkelijker maakt
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
   - dropdown menu in de nav (als ik meer tijd had)
    <img src="readme-images/nietgeluktdrop.png">
   - Bij de nav als die naar een hamburger menu gaat het maesons logo toevoegen
-    <img src="readme-images/nietgelukthamburger.png">
+    <img src="readme-images/nietgeluktburger.png">
  
 </details>
 
