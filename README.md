@@ -180,7 +180,6 @@ Alles is erg goed gegaan vooralsnog! Ik ben gaan werken aan de responsiveness en
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
