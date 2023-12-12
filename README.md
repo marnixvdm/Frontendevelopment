@@ -240,4 +240,9 @@ https://www.w3docs.com/snippets/html/how-to-embed-pdf-in-html.html
 
 flexbox:
 https://developer.mozilla.org/en-US/docs/Web/CSS/flex
+
+skip to content: 
+https://dev.to/ziizium/how-to-implement-accessibility-skip-to-content-4d8m#:~:text=On%20a%20normal%20day%20the%20%22skip%20to%20content%22,Enter%20key%20to%20jump%20to%20the%20main%20content.
 </details>
+
+
