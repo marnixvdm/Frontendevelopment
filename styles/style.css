@@ -386,7 +386,7 @@
 		font-family: 'brandfont'
 	}
 
-	footer p, time, address{
+	footer p, address{
 		color: white;
 		font-family: 'montserrat';
 	}
@@ -443,7 +443,7 @@
 		margin-bottom: 1em;
 	}
 
-	.open time {
+	.open p{
 		margin-bottom: 0.2em;
 	}
 
