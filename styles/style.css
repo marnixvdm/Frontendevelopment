@@ -1,12 +1,9 @@
-	/**************/
-	/* CSS REMEDY */
-	/**************/
+	@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 	@font-face {
 		font-family: 'brandfont';
 		src: url('maesons.woff') format("woff");
 	}
-
-	@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 	* {
 		margin: 0;
@@ -27,12 +24,8 @@
 
 	}
 
-	/* ensure the window fills the available screen height */
-	html,
+ 	html,
 
-	/*********************/
-	/* CUSTOM PROPERTIES */
-	/*********************/
 	:root {
 		/* startje */
 		--brand-color: #2e2679;
@@ -44,6 +37,17 @@
 
 	button:not(disabled) {
 		cursor: pointer;
+	}
+
+
+	header a{
+		color: rgb(255, 255, 255);
+		text-decoration: none;
+		z-index: -1;
+	}
+
+	header a:focus{
+		z-index: 100;
 	}
 
 	header {
@@ -66,7 +70,7 @@
 		appearance: none;
 		border: none;
 		border-radius: .25em;
-		font: 'montserrat';
+		font-family: 'montserrat';
 		font-size: 1em;
 		text-align: center;
 		font-weight: 700;
@@ -75,7 +79,6 @@
 	.menu {
 		background-color: rgb(255, 255, 255);
 		color:rgb(23, 23, 23)
-		
 	}
 
 	header>button {
@@ -100,7 +103,6 @@
 	}
 
 	nav.toonMenu {
-		/* JOUW CODE HIER - stap 4 */
 		translate: 0% 0%;
 	}
 
@@ -133,7 +135,6 @@
 		display: grid;
 		overflow: hidden;
 		justify-content: center;
-		direction: column;
 		align-content: center;
 		grid-template-columns: 1fr;
 		grid-template-rows: 1fr 1fr;
@@ -185,6 +186,7 @@
 		top: 50%;
 		right: 0%;
 		z-index: 10;
+		transition: transform 0.4s;
 	}
 
 	.booknow a {
@@ -193,9 +195,20 @@
 		text-decoration: none;
 		font-family: 'brandfont';
 		writing-mode: vertical-lr;
-		padding: 0.7em;
+		padding-left: 1em;
+		padding-top: 1em;
+		padding-right: 1em;
+		padding-bottom: 1em;
 		font-size: 1em;
+		transition: padding-right 0.3s;
+	}
 
+	.booknow:hover{
+		transform: scale(1.2);
+	}
+
+	.booknow a:hover{
+		padding-right: 1.3em;
 	}
 
 	main nav {
@@ -204,7 +217,6 @@
 
 	main nav ul {
 		display: grid;
-		grid-template-columns: repeat(auto fill, 50em, 60em);
 		column-gap: 1em;
 		row-gap: 1em;
 		list-style: none;
@@ -285,7 +297,7 @@
 		margin-bottom: 2em;
 	}
 
-	.news h2 {
+	.news h3 {
 		font-family: 'brandfont';
 		text-align: center;
 		font-size: var(--sectionheader);
@@ -340,7 +352,7 @@
 		transition: background-color 0.4s;
 	}
 
-	.news ul li a h3 {
+	.news ul li a h4 {
 		color: black;
 		font-family: 'brandfont';
 		font-size: 2em;
@@ -369,12 +381,12 @@
 		padding-top: 2em;
 	}
 
-	footer h4 {
+	footer h5 {
 		color: white;
 		font-family: 'brandfont'
 	}
 
-	footer p {
+	footer p, time, address{
 		color: white;
 		font-family: 'montserrat';
 	}
@@ -384,16 +396,16 @@
 		font-family: 'montserrat';
 	}
 
-	.place p {
+	.place address {
 		margin-bottom: 1em;
 		margin-top: 1em;
 	}
 
-	.place h4 {
+	.place h5 {
 		margin-bottom: 1em;
 	}
 
-	.place h4:nth-child(4) {
+	.place h5:nth-child(4) {
 		margin-top: 2em;
 	}
 
@@ -402,7 +414,7 @@
 		width: 15vw;
 	}
 
-	.contact h4 {
+	.contact h5 {
 		margin-bottom: 1em;
 	}
 
@@ -427,12 +439,17 @@
 		margin-bottom: 1em;
 	}
 
-	.open h4 {
+	.open h5 {
 		margin-bottom: 1em;
 	}
 
-	.open p {
+	.open time {
 		margin-bottom: 0.2em;
+	}
+
+	.open{
+		display: flex;
+		flex-direction: column;
 	}
 
 	/*pagina merchandise*/
@@ -566,14 +583,13 @@
 		}
 	}
 
-	@media screen and (min-width:1350px) and (max-width: 1600px) {
+	@media screen and (min-width:1350px) and (max-width: 3000px) {
 		.home {
 			font-size: 2em;
 		}
 
 		header {
 			background-color: var(--brand-color);
-			position: none;
 			padding-bottom: 3.5em;
 		}
 
